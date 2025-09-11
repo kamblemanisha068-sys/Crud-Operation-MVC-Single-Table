@@ -1,0 +1,77 @@
+﻿@model IEnumerable<FruitCrudOperation.Models.Fruit>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Fruit List</h1>
+@{
+    var successMeassage = TempData["SuccessMessage"] as string;
+}
+@if (!string.IsNullOrEmpty(successMeassage))
+{
+    <div class="alert alert-success">
+        @successMeassage
+    </div>
+
+}
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@if(!Model.Any())
+{
+    <div class="alert alert-warning text-center">
+        No Record Found
+    </div>
+}
+else
+{
+    <table class="table table-bordered table-striped">
+        
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.FruitName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Quantity_In_Kg)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price_Per_Kg)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FruitName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity_In_Kg)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price_Per_Kg)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                        <a href="javascript:void(0)" onclick="confirmDelete(@item.ID)" >Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    
+}
+<script>
+    function confirmDelete(ID){
+        if (confirm('Are you sure you want to delete this Fruit ?'))
+        {
+            window.location.href = `/Fruit/Delete/${ID}`;
+        }
+    }
+</script>

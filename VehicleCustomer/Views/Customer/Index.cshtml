@@ -1,0 +1,99 @@
+﻿@model IEnumerable<VehicleCustomer.Models.Customer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .table tr th{
+        background-color:hotpink;
+    }
+</style>
+
+<h1>Customer List</h1>
+@{
+    var successMessage = TempData["SuccessMessage"] as string;
+}
+@if (!string.IsNullOrEmpty(successMessage))
+{
+    <script>
+        alert("@successMessage")
+    </script>
+}
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@if (!Model.Any())
+{
+    <div  class="alert alert-warning text-center">
+        No Record Found
+    </div>
+}
+else
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Customer_Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Customer_Age)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Gender)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Model_Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Model_Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Register_Date)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Customer_Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Customer_Age)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Gender)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Model_Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Model_Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Register_Date)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Customer_ID">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Customer_ID">Details</a> |
+                        <a href="javascript:void(0)"onclick="ConfirmDelete(@item.Customer_ID)" >Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+<script>
+
+       function ConfirmDelete (Customer_ID){
+        if ( confirm('Are you sure you want to delete this Customer? '))
+        {
+            window.location.href = `/Customer/Delete/${Customer_ID}`;
+        }
+    }
+</script>
+ 

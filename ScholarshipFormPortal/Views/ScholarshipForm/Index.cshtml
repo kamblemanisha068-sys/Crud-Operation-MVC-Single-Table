@@ -1,0 +1,93 @@
+﻿@model IEnumerable<ScholarshipFormPortal.Models.ScholarshipForm>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Application List</h1>
+@{
+    var successMessage = TempData["SuccessMessage"] as string;
+}
+@if (!string.IsNullOrEmpty(successMessage))
+{
+    <script>
+        alert("@successMessage")
+    </script>
+}
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@if(!Model.Any())
+{
+    <div class="alert alert-warning text-center">
+          No Record Found
+    </div>
+}
+else
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Applicant_Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.College_Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Course)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AppliedDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Scholarship_Amount)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Category)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Applicant_Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.College_Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Course)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AppliedDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Scholarship_Amount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Category)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Applicant_ID">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Applicant_ID">Details</a> |
+
+                        <a href="javascript:void(0) "onclick="confirmDelete(@item.Applicant_ID)">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+<script>
+    function confirmDelete(Applicant_ID){
+        if (confirm('Are you sure you want to delete this applicant ?'))
+        {
+            window.location.href = `/ScholarshipForm/Delete/${Applicant_ID}`;
+        }
+    }
+</script>

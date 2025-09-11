@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|c:\\users\\hp\\source\\repos\\millatrycrud\\controllers\\soldiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|solutionrelative:controllers\\soldiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|c:\\users\\hp\\source\\repos\\millatrycrud\\views\\soldier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|solutionrelative:views\\soldier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|c:\\users\\hp\\source\\repos\\millatrycrud\\views\\soldier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|solutionrelative:views\\soldier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|c:\\users\\hp\\source\\repos\\millatrycrud\\views\\soldier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|solutionrelative:views\\soldier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|c:\\users\\hp\\source\\repos\\millatrycrud\\views\\soldier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|solutionrelative:views\\soldier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|c:\\users\\hp\\source\\repos\\millatrycrud\\views\\soldier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|solutionrelative:views\\soldier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|c:\\users\\hp\\source\\repos\\millatrycrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|c:\\users\\hp\\source\\repos\\millatrycrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|c:\\users\\hp\\source\\repos\\millatrycrud\\models\\soldierdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|solutionrelative:models\\soldierdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|c:\\users\\hp\\source\\repos\\millatrycrud\\models\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|solutionrelative:models\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|c:\\users\\hp\\source\\repos\\millatrycrud\\migrations\\20250826121300_soldiermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC4E7AAE-3E37-41B3-BF61-4D3B0949F172}|MillatryCrud.csproj|solutionrelative:migrations\\20250826121300_soldiermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Views\\Soldier\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Soldier\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Views\\Soldier\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Soldier\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T12:58:37.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Views\\Soldier\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Soldier\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Views\\Soldier\\Details.cshtml",
+              "RelativeToolTip": "Views\\Soldier\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T12:49:37.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Views\\Soldier\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Soldier\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Views\\Soldier\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Soldier\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAnwDYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T12:43:43.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Views\\Soldier\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Soldier\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Views\\Soldier\\Create.cshtml",
+              "RelativeToolTip": "Views\\Soldier\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAnwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T12:31:08.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Views\\Soldier\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Soldier\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Views\\Soldier\\Index.cshtml",
+              "RelativeToolTip": "Views\\Soldier\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T12:19:51.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoldierController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Controllers\\SoldierController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SoldierController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Controllers\\SoldierController.cs",
+              "RelativeToolTip": "Controllers\\SoldierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:16:10.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250826121300_SoldierMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Migrations\\20250826121300_SoldierMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250826121300_SoldierMigration.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Migrations\\20250826121300_SoldierMigration.cs",
+              "RelativeToolTip": "Migrations\\20250826121300_SoldierMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:13:01.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:10:19.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T12:07:45.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoldierDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Models\\SoldierDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\SoldierDBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Models\\SoldierDBContext.cs",
+              "RelativeToolTip": "Models\\SoldierDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:04:41.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Soldier.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Models\\Soldier.cs",
+              "RelativeDocumentMoniker": "Models\\Soldier.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MillatryCrud\\Models\\Soldier.cs",
+              "RelativeToolTip": "Models\\Soldier.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:52:29.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|c:\\users\\hp\\source\\repos\\fruitcrudoperation\\controllers\\fruitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|solutionrelative:controllers\\fruitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|c:\\users\\hp\\source\\repos\\fruitcrudoperation\\views\\fruit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|solutionrelative:views\\fruit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|c:\\users\\hp\\source\\repos\\fruitcrudoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|c:\\users\\hp\\source\\repos\\fruitcrudoperation\\views\\fruit\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|solutionrelative:views\\fruit\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|c:\\users\\hp\\source\\repos\\fruitcrudoperation\\views\\fruit\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|solutionrelative:views\\fruit\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|c:\\users\\hp\\source\\repos\\fruitcrudoperation\\views\\fruit\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|solutionrelative:views\\fruit\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|c:\\users\\hp\\source\\repos\\fruitcrudoperation\\views\\fruit\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|solutionrelative:views\\fruit\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|c:\\users\\hp\\source\\repos\\fruitcrudoperation\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|solutionrelative:models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|c:\\users\\hp\\source\\repos\\fruitcrudoperation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|c:\\users\\hp\\source\\repos\\fruitcrudoperation\\models\\fruitdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|solutionrelative:models\\fruitdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|c:\\users\\hp\\source\\repos\\fruitcrudoperation\\migrations\\20250702063525_fruitmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1AC6CE-8835-4FD6-9E05-680116932614}|FruitCrudOperation.csproj|solutionrelative:migrations\\20250702063525_fruitmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Views\\Fruit\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fruit\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Views\\Fruit\\Index.cshtml",
+              "RelativeToolTip": "Views\\Fruit\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T07:07:25.177Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:27:36.843Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Views\\Fruit\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fruit\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Views\\Fruit\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Fruit\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T09:38:19.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Views\\Fruit\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fruit\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Views\\Fruit\\Details.cshtml",
+              "RelativeToolTip": "Views\\Fruit\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T09:37:36.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Views\\Fruit\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fruit\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Views\\Fruit\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Fruit\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T08:21:43.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Views\\Fruit\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fruit\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Views\\Fruit\\Create.cshtml",
+              "RelativeToolTip": "Views\\Fruit\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T06:52:00.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Controllers\\FruitController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FruitController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Controllers\\FruitController.cs",
+              "RelativeToolTip": "Controllers\\FruitController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:44:30.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250702063525_FruitMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Migrations\\20250702063525_FruitMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250702063525_FruitMigration.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Migrations\\20250702063525_FruitMigration.cs",
+              "RelativeToolTip": "Migrations\\20250702063525_FruitMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:35:25.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T06:24:49.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Models\\Fruit.cs",
+              "RelativeDocumentMoniker": "Models\\Fruit.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Models\\Fruit.cs",
+              "RelativeToolTip": "Models\\Fruit.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:17:59.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FruitDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Models\\FruitDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\FruitDBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\FruitCrudOperation\\Models\\FruitDBContext.cs",
+              "RelativeToolTip": "Models\\FruitDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:22:47.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|c:\\users\\hp\\source\\repos\\addmissionform\\views\\admissionform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|solutionrelative:views\\admissionform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|c:\\users\\hp\\source\\repos\\addmissionform\\controllers\\admissionformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|solutionrelative:controllers\\admissionformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|c:\\users\\hp\\source\\repos\\addmissionform\\views\\admissionform\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|solutionrelative:views\\admissionform\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|c:\\users\\hp\\source\\repos\\addmissionform\\views\\admissionform\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|solutionrelative:views\\admissionform\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|c:\\users\\hp\\source\\repos\\addmissionform\\views\\admissionform\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|solutionrelative:views\\admissionform\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|c:\\users\\hp\\source\\repos\\addmissionform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|c:\\users\\hp\\source\\repos\\addmissionform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|c:\\users\\hp\\source\\repos\\addmissionform\\views\\admissionform\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|solutionrelative:views\\admissionform\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|c:\\users\\hp\\source\\repos\\addmissionform\\migrations\\20250703140553_admissionmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|solutionrelative:migrations\\20250703140553_admissionmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|c:\\users\\hp\\source\\repos\\addmissionform\\models\\admissionformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|solutionrelative:models\\admissionformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|c:\\users\\hp\\source\\repos\\addmissionform\\models\\admissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F72E2B7-C57B-4030-906C-6B359F8596F4}|AddmissionForm.csproj|solutionrelative:models\\admissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Views\\AdmissionForm\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdmissionForm\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Views\\AdmissionForm\\Delete.cshtml",
+              "RelativeToolTip": "Views\\AdmissionForm\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T14:58:51.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Views\\AdmissionForm\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdmissionForm\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Views\\AdmissionForm\\Details.cshtml",
+              "RelativeToolTip": "Views\\AdmissionForm\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T14:53:10.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Views\\AdmissionForm\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdmissionForm\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Views\\AdmissionForm\\Edit.cshtml",
+              "RelativeToolTip": "Views\\AdmissionForm\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T14:41:13.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Views\\AdmissionForm\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdmissionForm\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Views\\AdmissionForm\\Index.cshtml",
+              "RelativeToolTip": "Views\\AdmissionForm\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwGIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T14:15:12.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Views\\AdmissionForm\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\AdmissionForm\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Views\\AdmissionForm\\Create.cshtml",
+              "RelativeToolTip": "Views\\AdmissionForm\\Create.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwDIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T14:09:11.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdmissionFormController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Controllers\\AdmissionFormController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdmissionFormController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Controllers\\AdmissionFormController.cs",
+              "RelativeToolTip": "Controllers\\AdmissionFormController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwEIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:06:48.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250703140553_AdmissionMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Migrations\\20250703140553_AdmissionMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250703140553_AdmissionMigration.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Migrations\\20250703140553_AdmissionMigration.cs",
+              "RelativeToolTip": "Migrations\\20250703140553_AdmissionMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:05:53.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:03:17.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T14:01:07.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdmissionFormDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Models\\AdmissionFormDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\AdmissionFormDBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Models\\AdmissionFormDBContext.cs",
+              "RelativeToolTip": "Models\\AdmissionFormDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:58:29.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdmissionForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Models\\AdmissionForm.cs",
+              "RelativeDocumentMoniker": "Models\\AdmissionForm.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\AddmissionForm\\Models\\AdmissionForm.cs",
+              "RelativeToolTip": "Models\\AdmissionForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:44:17.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
